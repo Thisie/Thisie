@@ -20,6 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thisie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thisie" /></a></p><br><br><br>
 
-<p><img align="center" src="https://vecel-stats-h5o37vnyc-stats-thijs.vercel.app/api/top-langs?username=Thisie&show_icons=true&locale=en&layout=compact?exclude_repo=vecel-stats" alt="thisie" /></p>
+<p><img align="center" src="https://vecel-stats-h5o37vnyc-stats-thijs.vercel.app/api/top-langs?username=Thisie&show_icons=true&locale=en&layout=compact?exclude_repo=vecel-stats,client,bedrock,vecel-stats" alt="thisie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisie&" alt="thisie" /></p>
