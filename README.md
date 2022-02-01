@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisie&label=Profile%20views&color=0e75b6&style=flat" alt="thisie" /> </p>
 
-- 🔭 I’m currently working on **MysticVision**
+- 🔭 I’m currently working on **MysticVision** & **React-Native**
 
 - 📫 How to reach me **thijs1raaijmakers@gmail.com**
 
